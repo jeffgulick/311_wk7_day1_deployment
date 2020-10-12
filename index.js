@@ -5,7 +5,7 @@ const authRouter = require('./routers/auth');
 const { logger } = require('./middleware')
 
 const app = express();
-const port = process.env.PORT || 4001;
+const port = process.env.PORT || 8080;
 
 app.use(bodyParser.json())
 app.use(logger)
