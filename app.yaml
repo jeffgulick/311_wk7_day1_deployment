@@ -1,4 +1,5 @@
 runtime: nodejs10
 
 env_variables:
-  CLOUD_INSTANCE: fake-instance
+  CLOUD_INSTANCE: 	
+clean-abode-289019:us-central1:first
